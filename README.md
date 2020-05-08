@@ -1,8 +1,6 @@
 # sentiment_classifier
 Script for the classification taks
 
-Data for the classification task were given by the computer science faculty of the TU Darmstadt.
-
 ## Project description 
 
 The aim of the presented code is to solve the classification task. The chosen corpus consists of short text messages in four languages. All these messages are no longer than 140 symbols. These text messages include different spelling errors, slang words and phrases and abbreviations, which make text messages more difficult for classification. In the training part of the corpus all messages are marked with one of two categories; they can be “positive” or “negative”. The goal of the classifier is to mark other text messages that had not been seen before with these two labels.
